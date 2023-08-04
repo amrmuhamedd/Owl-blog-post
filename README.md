@@ -1,4 +1,4 @@
-# Blog Post Application using Next.js
+# Blog Post Application
 
 Welcome to the **Blog Post Application** repository, a responsive blog post application built using Next.js, with animations powered by animate.css and icons from Font Awesome. This project provides an organized structure for easy maintenance and extensibility.
 
@@ -8,7 +8,9 @@ Welcome to the **Blog Post Application** repository, a responsive blog post appl
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-
+- [Preview](#preview)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Project Structure
 
@@ -23,9 +25,10 @@ The repository is structured as follows:
 
 ## Features
 
-- **Responsive Design**: The application offers a seamless user experience across various devices and screen sizes.
-- **Animate.css**: Smooth and engaging animations enhance user interactions and navigation.
-- **Font Awesome Icons**: Visually appealing and intuitive icons are incorporated throughout the application.
+- **Responsive Design**: The application is carefully crafted to ensure optimal display and functionality across various devices, including desktops, tablets, and smartphones.
+- **Engaging Animations**: everaging the animate.css library, the app incorporates smooth and captivating animations that enhance user interactions and create an enjoyable 
+- **Intuitive Icons**: Font Awesome icons are seamlessly integrated to provide meaningful visual cues, aiding in navigation and interaction throughout the app.
+- **Maintainable Codebase**: The project adopts a structured organization with dedicated directories for assets, reusable components, data management, styles, and pages, ensuring ease of maintenance and future expansion.
 
 ## Getting Started
 
@@ -57,6 +60,9 @@ The repository is structured as follows:
 - Interact with animations while navigating through the application.
 - Experience a consistent layout and functionality across different devices.
 
+## Preview
+
+Check out the live preview of the application: [Blog Post Application Preview](https://owl-blog-post.vercel.app/)
 
 
 
